@@ -1,8 +1,3 @@
-# Customer-Segmentation-Using-K-Means-Clustering-for-Mall-Customers
-Sure, here's a detailed README for the program:
-
----
-
 # Customer Segmentation Using K-Means Clustering for Mall Customers
 
 ## Overview
@@ -184,10 +179,4 @@ print('Sum of Squared Error (sse) =', sse)
 
 This project demonstrates how to perform customer segmentation using K-Means clustering. By analyzing the clusters, businesses can better understand their customers and tailor their marketing strategies accordingly.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-Feel free to modify the README according to your specific needs and preferences!
